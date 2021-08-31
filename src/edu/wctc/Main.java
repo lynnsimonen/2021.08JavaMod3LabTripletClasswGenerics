@@ -6,6 +6,6 @@ public class Main {
 
         Triplet snoopy = new Triplet(peanuts, white, medium);
         Triplet santasLittleHelper = new Triplet(simpsons, brown, small);
-        Triplet clifford = new Triplet(clifford, red, big)
+        Triplet clifford = new Triplet(cliffordTheBigRedDog, red, big);
     }
 }
