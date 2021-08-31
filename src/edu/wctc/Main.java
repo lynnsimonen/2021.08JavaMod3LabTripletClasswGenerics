@@ -17,5 +17,16 @@ public class Main {
 //         Triplet santasLittleHelper = new Triplet(simpsons, brown, small);
 //         Triplet clifford = new Triplet(cliffordTheBigRedDog, red, big);
         
+        
+        List<String> stuff = new ArrayList<>();
+            stuff.add("First");
+            stuff.add("Second");
+            stuff.add("Third");
+            Iterator<String> itr = stuff.iterator();
+            while (itr.hasNext()) {  
+                    String item = itr.next(); System.out.println(item);
+        
+        
+        
     }
 }
